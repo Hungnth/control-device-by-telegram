@@ -69,4 +69,4 @@ This project is licensed under the MIT License.
 This project is inspired by [DucThinhEXE's Control Device In Telegram](https://github.com/DucThinhEXE/Control-Device-In-Telegram). Special thanks to the original author for their contribution.
 
 Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests. Your contributions are highly appreciated!
-"# control-device-by-telegram" 
+"#control-device-by-telegram" 
